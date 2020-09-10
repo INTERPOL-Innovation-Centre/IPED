@@ -6,4 +6,4 @@ In English: Digital Evidence Processor and Indexer. It is a tool implemented in 
 Although it was always meant to be open source, its source code was effectively made public in 2019.
 
 
-The source code and documentation is currently hosted at [IPED](https://github.com/lfcnassif/IPED).
+The source code and documentation is currently hosted at [IPED](https://github.com/sepinf-inc/IPED).
